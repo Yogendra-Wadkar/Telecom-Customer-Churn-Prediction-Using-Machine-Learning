@@ -17,7 +17,7 @@ In the fast-paced world of telecommunications, customer churn is a critical chal
 📋 **User-Defined Function:** For your convenience, we provide a user-defined function to make predictions with your custom data.
 
 ## Case Study
-
+![asdfghjkl](https://github.com/Yogendra-Wadkar/Telecom-Customer-Churn-Prediction-Using-Machine-Learning/assets/134367735/7c498740-930f-4378-a254-4c97cc7dde1b)
 
 ## Project Structure
 
