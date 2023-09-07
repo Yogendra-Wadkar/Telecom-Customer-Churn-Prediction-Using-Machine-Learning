@@ -6,7 +6,7 @@
 
 In the fast-paced world of telecommunications, customer churn is a critical challenge. Acquiring new customers is expensive, and intense price wars drive competition. Our project focuses on predicting customer churn, leveraging machine learning techniques to understand and preemptively address this issue.
 
-### Key Features
+## Key Features
 
 📈 **Data Analysis:** We dive deep into telecom data, exploring its shape, addressing missing values, and revealing valuable statistical insights.
 
