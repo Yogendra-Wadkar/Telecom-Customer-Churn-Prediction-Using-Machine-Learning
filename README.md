@@ -1,6 +1,6 @@
-# Telecom Customer Churn Prediction
+ # Telecom Customer Churn Prediction
 
-📊 Welcome to our Telecom Customer Churn Prediction project!
+📊 Welcome to my Telecom Customer Churn Prediction project!
 
 ## Project Overview
 
@@ -16,15 +16,6 @@ In the fast-paced world of telecommunications, customer churn is a critical chal
 
 📋 **User-Defined Function:** For your convenience, we provide a user-defined function to make predictions with your custom data.
 
-## Repository Structure
-
-- 📁 **Data:** This directory contains the dataset used for analysis.
-- 📁 **Notebooks:** Jupyter notebooks detailing each project phase.
-- 📁 **Scripts:** Python scripts for data preprocessing and model training.
-- 📁 **Models:** Saved models for easy prediction.
-- 📁 **Images:** Visualizations and graphs generated during data analysis.
-- 📁 **Documentation:** Project documentation and README files.
-
 ## Project Structure
 
 1. **Data Gathering:** We start by collecting the dataset, essential for our analysis.
@@ -34,4 +25,13 @@ In the fast-paced world of telecommunications, customer churn is a critical chal
 5. **Model Accuracy:** We assess the chosen model's accuracy using a user-defined function.
 6. **Conclusion:** Our findings and project outcomes are summarized.
 
+## Repository Structure
+
+- 📁 **Data:** This directory contains the dataset used for analysis.
+- 📁 **Notebooks:** Jupyter notebooks detailing each project phase.
+- 📁 **Project Description**: This section provides a brief overview of the project's purpose and goals.
+- 📁 **Project Storytelling**: Dive into our project journey, from data collection to analysis and modeling.
+- 📁 **Visualization Summary**: Explore our compelling visualizations and graphs, offering insights into the data.
+- 📁 **Conclusion**: Discover the key takeaways and outcomes of our Telecom Customer Churn Prediction project.
+  
 Feel free to explore our project and predictions. 🚀
