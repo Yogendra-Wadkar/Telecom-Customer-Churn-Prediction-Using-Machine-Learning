@@ -7,3 +7,6 @@ This section takes you through the process of understanding customer behavior, r
 Witness the progression of our models, from challenges faced to achieving refined accuracy. Gain insights into customer churn in the telecom sector and the transformative potential of data-driven strategies for customer retention.
 
 Join us on this journey to discover the impact of data in reshaping the telecom industry.
+
+## Storytelling Report:
+[Project Storytelling.pdf](https://github.com/Yogendra-Wadkar/E_commerce_Sales_Analysis_Dashboard_with_Power_BI/files/12164245/Project.Storytelling.pdf)
