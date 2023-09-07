@@ -9,4 +9,5 @@ Witness the progression of our models, from challenges faced to achieving refine
 Join us on this journey to discover the impact of data in reshaping the telecom industry.
 
 ## Storytelling Report:
-[Project Storytelling.pdf](https://github.com/Yogendra-Wadkar/E_commerce_Sales_Analysis_Dashboard_with_Power_BI/files/12164245/Project.Storytelling.pdf)
+[Telecom Project Storytelling.pdf](https://github.com/Yogendra-Wadkar/Telecom-Customer-Churn-Prediction-Using-Machine-Learning/files/12547443/Telecom.Project.Storytelling.pdf)
+
