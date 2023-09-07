@@ -16,6 +16,9 @@ In the fast-paced world of telecommunications, customer churn is a critical chal
 
 📋 **User-Defined Function:** For your convenience, we provide a user-defined function to make predictions with your custom data.
 
+## Case Study
+
+
 ## Project Structure
 
 1. **Data Gathering:** We start by collecting the dataset, essential for our analysis.
