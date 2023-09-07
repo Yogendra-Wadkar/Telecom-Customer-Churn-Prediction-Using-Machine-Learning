@@ -15,11 +15,11 @@ Welcome to the Telecom Customer Churn Prediction project! In today's competitive
 
 Our project follows a structured pipeline:
 
-### 1.**Problem Statement**: In the telecom industry, customer acquisition costs often exceed retention costs. This project addresses the challenge of predicting customer churn accurately.
+### 1. **Problem Statement**: In the telecom industry, customer acquisition costs often exceed retention costs. This project addresses the challenge of predicting customer churn accurately.
 
-### 2.**Data Gathering**: Collecting telecom-related dataset with customer information, behavior data, and switch status for further analysis and model training. Download the data in the .csv file format.
+### 2. **Data Gathering**: Collecting telecom-related dataset with customer information, behavior data, and switch status for further analysis and model training. Download the data in the .csv file format.
 
-### 3.**EDA (Exploratory Data Analysis)**: The data is meticulously explored to identify patterns, outliers, and critical insights, providing the foundation for subsequent steps.
+### 3. **EDA (Exploratory Data Analysis)**: The data is meticulously explored to identify patterns, outliers, and critical insights, providing the foundation for subsequent steps.
 
 #### 3.1. Data Frame Shape: Examine the telecom dataset to understand the number of rows and columns.
 
@@ -33,7 +33,7 @@ Our project follows a structured pipeline:
 
 #### 3.6. Data Insights: Analyze the EDA results to uncover valuable insights and patterns that can inform feature engineering and model training decisions
 
-### 4.**Feature Engineering**: To prepare the data for modeling, we apply techniques such as one-hot encoding and label encoding for categorical variables and handle missing data.
+### 4. **Feature Engineering**: To prepare the data for modeling, we apply techniques such as one-hot encoding and label encoding for categorical variables and handle missing data.
 
 ####  4.1. Handling Categorical Variables: Encoded categorical variables using one-hot encoding for the 'state' column and label encoding for 'international plan' and 'voicemail plan' columns.
 
@@ -42,7 +42,7 @@ Our project follows a structured pipeline:
 ####  4.3. Normalization: Used Min-Max scaling (MinMaxScaler) to scale features between 0 and 1, ensuring uniformity across different numerical attributes 
 
 
- ### 5.**Feature Selection**: We select the most influential features for our model to enhance its predictive accuracy.
+ ### 5. **Feature Selection**: We select the most influential features for our model to enhance its predictive accuracy.
 
 #### 5.1. Correlation Analysis: Examined feature correlations using the Pearson correlation coefficient to identify relationships between different attributes. This helped to understand the strength and direction of linear relationships between variables.
 
