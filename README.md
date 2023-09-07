@@ -28,7 +28,7 @@ In the fast-paced world of telecommunications, customer churn is a critical chal
 ## Repository Structure
 
 - 📁 **Data:** This directory contains the dataset used for analysis.
-- 📁 **Notebooks:** Jupyter notebooks detailing each project phase.
+- 📁 **Jupyter Notebooks:** Jupyter notebooks detailing each project phase.
 - 📁 **Project Description**: This section provides a brief overview of the project's purpose and goals.
 - 📁 **Project Storytelling**: Dive into our project journey, from data collection to analysis and modeling.
 - 📁 **Visualization Summary**: Explore our compelling visualizations and graphs, offering insights into the data.
