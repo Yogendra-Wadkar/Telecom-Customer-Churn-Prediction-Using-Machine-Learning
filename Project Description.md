@@ -29,7 +29,7 @@ Our project follows a structured pipeline:
 
 #### 3.4. Outlier Treatment: Replace identified outliers using the Interquartile Range (IQR) method.
 
-#### 3.5. Statistical Information: Calculate mean, median, and other descriptive statistics (e.g., standard deviation) using functions describe() to gain insights into data characteristics.
+   #### 3.5. Statistical Information: Calculate mean, median, and other descriptive statistics (e.g., standard deviation) using functions describe() to gain insights into data characteristics.
 
 #### 3.6. Data Insights: Analyze the EDA results to uncover valuable insights and patterns that can inform feature engineering and model training decisions
 
