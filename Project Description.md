@@ -50,11 +50,11 @@ Our project follows a structured pipeline:
 
 #### 5.3. Train-Test Split: Split the data into training and testing sets (70% training, 30% testing) to evaluate model performance. This allowed us to train the model on one set of data and test its performance on unseen data to avoid overfitting
 
-6. ### **Model Training**: We employ various machine learning algorithms, including Logistic Regression, Decision Trees, Random Forest, and AdaBoost, to develop predictive models.
+### 6. **Model Training**: We employ various machine learning algorithms, including Logistic Regression, Decision Trees, Random Forest, and AdaBoost, to develop predictive models.
 
-7. ### **Hyperparameter Tuning**: For Decision Trees, we perform hyperparameter tuning to optimize model performance.
+### 7. **Hyperparameter Tuning**: For Decision Trees, we perform hyperparameter tuning to optimize model performance.
 
-8. ### **Checking for Model Accuracy**: Our chosen model, Decision Tree with Hyperparameters, is evaluated for its predictive accuracy.
+### 8. **Checking for Model Accuracy**: Our chosen model, Decision Tree with Hyperparameters, is evaluated for its predictive accuracy.
 
 ## Key Features
 
