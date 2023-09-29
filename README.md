@@ -1,13 +1,16 @@
  # Telecom Customer Churn Prediction
 
 📊 Welcome to my Telecom Customer Churn Prediction project!
-![telecom](https://github.com/Yogendra-Wadkar/Telecom-Customer-Churn-Prediction-Using-Machine-Learning/assets/134367735/7371d2f5-fa14-4ead-a572-85694c298283)
+ 
+ 
+![monu](https://github.com/Yogendra-Wadkar/Telecom-Customer-Churn-Prediction-Using-Machine-Learning/assets/134367735/d44b9010-7c80-4847-9698-b669a51e4031)
 
 
 ## Project Overview
 
 In the fast-paced world of telecommunications, customer churn is a critical challenge. Acquiring new customers is expensive, and intense price wars drive competition. Our project focuses on predicting customer churn, leveraging machine learning techniques to understand and preemptively address this issue.
-![telecom](https://github.com/Yogendra-Wadkar/Telecom-Customer-Churn-Prediction-Using-Machine-Learning/assets/134367735/7371d2f5-fa14-4ead-a572-85694c298283)
+ 
+![monu](https://github.com/Yogendra-Wadkar/Telecom-Customer-Churn-Prediction-Using-Machine-Learning/assets/134367735/d44b9010-7c80-4847-9698-b669a51e4031)
 
 
 ## Key Features
